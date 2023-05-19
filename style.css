@@ -1,0 +1,22 @@
+h1{
+    color: aquamarine;
+    border:solid;
+    float: left;
+}
+p{
+    color:#319364;
+}
+
+.header{
+    background-color: brown;
+    display: flex;
+    justify-content:space-between ;
+}
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+p,h2{
+    text-align: center;
+}
